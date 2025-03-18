@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #000;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 99%;
+    z-index: 1000;
+  }
+  
+  .navbar .logo {
+    height: 40px;
+  }
+  
+  .navbar .profile {
+    height: 40px;
+    border-radius: 50%;
+  }
+  

@@ -1,0 +1,17 @@
+.product-details-container {
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .product-details-container h2 {
+    margin-top: 40px;
+  }
+  
+  .product-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
